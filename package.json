@@ -25,6 +25,7 @@
     "eslint-plugin-import": "^2.18.2"
   },
   "dependencies": {
+    "@babel/runtime": "^7.7.4",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.2.0",
